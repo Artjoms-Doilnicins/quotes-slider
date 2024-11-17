@@ -1,5 +1,7 @@
 # Quotes Slider
 
+[https://artjoms-doilnicins.github.io/quotes-slider/](https://artjoms-doilnicins.github.io/quotes-slider/)
+
 A dynamic quotes slider that displays quotes from famous personalities along with their photos. The slider updates every 4 seconds, showing a new quote and rotating through a predefined list of quotes.
 
 This project combines **HTML** , **CSS** , and **JavaScript**  to create a sleek and functional quotes slider. The design is modern and visually appealing with smooth transitions and automatic quote updates every few seconds.
