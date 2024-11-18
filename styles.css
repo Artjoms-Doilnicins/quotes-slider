@@ -45,8 +45,13 @@ img {
 	position: absolute;
 	left: 50%;
 	transform: translateX(-50%);
-	top: -50px;
+	top: -60px;
 	box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.3);
+	object-fit: cover;
+
+	@media (max-width: 550px) {
+		top: -90px;
+	}
 }
 
 .name {
